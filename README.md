@@ -32,8 +32,9 @@
   Emma https://github.com/emmazingjane & Michal https://github.com/vahyno
 
   app on Heroku:
-    "backend: "
-    "frontend: "
+    "backend: https://hungry-backend.herokuapp.com/"
+
+    "frontend: https://hungry-frontend.herokuapp.com/"
 
 
 ## Thanks to:
